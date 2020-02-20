@@ -75,6 +75,11 @@ section {
     background-color:white;
 }
 
+.single-experience p{
+    padding-right: 40px;
+    text-align: justify;
+}
+
 
 .center-exp h2 {
     text-align: center;
